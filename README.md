@@ -1,2 +1,2 @@
-# studentlife
-First repository
+# 36-350
+First class repository
